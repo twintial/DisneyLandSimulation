@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bb2d3ee-44a2-4123-8ace-4095e523f244" name="Default Changelist" comment="" />
+    <list default="true" id="3bb2d3ee-44a2-4123-8ace-4095e523f244" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disney/place/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/charactor/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/charactor/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/charactor/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/charactor/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/charactor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/charactor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/observe/TimeObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/observe/TimeObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/observe/TimeObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/observe/TimeObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/attraction/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/attraction/Attraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/attraction/maintenance/MaintenanceWorkerTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/attraction/maintenance/MaintenanceWorkerTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/attraction/state/AttractionState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/attraction/state/AttractionState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/shop/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/shop/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/shop/goods/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/shop/goods/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/shop/goods/Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/shop/goods/Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/disney/place/shop/goods/PackageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/disney/place/shop/goods/PackageFactory.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +35,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SjVN8udF7QyGPr6Wi47fa7qAjy" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -63,10 +85,22 @@
       <updated>1572076948502</updated>
       <workItem from="1572076952307" duration="3781000" />
       <workItem from="1572080918262" duration="1448000" />
+      <workItem from="1572176855467" duration="3224000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

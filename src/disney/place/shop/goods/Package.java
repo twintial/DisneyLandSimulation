@@ -2,10 +2,17 @@ package disney.place.shop.goods;
 
 import disney.constant.PackageName;
 
+/**
+ * {@code Package} class 是用于包装商品的包装袋父类
+ */
 public abstract class Package implements Cloneable {
-    private PackageName name;
-    private float price;
+    private PackageName name; // 包装带名字
 
+    public Package(PackageName packageName){
+        this.name = packageName;
+    }
+
+    @Override
     public Object clone() {
         Object clone = null;
         try {
@@ -18,9 +25,5 @@ public abstract class Package implements Cloneable {
 
     public String getName(){
         return name.toString();
-    }
-
-    public float getPrice(){
-        return price;
     }
 }
